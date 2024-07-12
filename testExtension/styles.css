@@ -1,0 +1,4 @@
+#wandering-cat {
+  pointer-events: none; /* Ensure the cat doesn't interfere with other elements */
+}
+
